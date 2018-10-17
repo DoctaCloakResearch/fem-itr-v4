@@ -1,1 +1,5 @@
-./pet-adoption/node_modules
+# Node Modules
+/pet-adoption/node_modules
+
+# Dist cache
+/pet-adoption/.cache
